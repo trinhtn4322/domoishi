@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'svn-nexa-bold';
+    src: url("./assets/fonts/SVN-Nexa/Bold.ttf") format('truetype');
+  }
+  @font-face {
+    font-family: 'svn-nexa-light';
+    src: url("./assets/fonts/SVN-Nexa/Light.ttf") format('truetype');
+  }
+  
+  /* @font-face {
+    font-family: 'svn-nexa';
+    src: url("./assets/fonts/Nexa/Regular.otf") format('opentype');
+  } */
+  
+  @font-face {
+    font-family: 'svn-rust';
+    src: url("./assets/fonts/SVN-Nexa/Rust/Script.ttf") format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'shopee-bold';
+    src: url("./assets/fonts/ShopeeDisplay-Bold.ttf") format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'shopee-regular';
+    src: url("./assets/fonts/ShopeeDisplay-Regular.ttf") format('truetype');
+  }
+  @font-face {
+    font-family: 'nexa-light';
+    src: url("./assets/fonts/Nexa/Nexa-ExtraLight.ttf") format('truetype');
+  }
+  @font-face {
+    font-family: 'shopee-medium';
+    src: url("./assets/fonts/ShopeeDisplay-Medium.ttf") format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'shopee-light';
+    src: url("./assets/fonts/ShopeeDisplay-Light.ttf") format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'jonitha-script';
+    src: url("./assets/fonts/SVN-Jonitha/Script.ttf") format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'chalkboard';
+    src: url("./assets/fonts/SVN-Chalkboard/The/Best.ttf") format('truetype');
+  }
+  
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }

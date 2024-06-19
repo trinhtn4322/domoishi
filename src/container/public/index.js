@@ -1,0 +1,7 @@
+export { default as Home } from "./Home"
+export { default as Menu } from "./Menu"
+export { default as Locations } from "./Locations"
+export { default as Franchising } from "./Franchising"
+export { default as AboutUs } from "./AboutUs"
+export { default as Careers } from "./Careers"
+export { default as News } from "./News"

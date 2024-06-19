@@ -1,0 +1,8 @@
+export { default as Navbar } from "./Navbar"
+export { default as Home } from "./Navbar"
+export { default as Locations } from "./Navbar"
+export { default as Franchising } from "./Navbar"
+export { default as AboutUs } from "./Navbar"
+export { default as Careers } from "./Navbar"
+export { default as News } from "./Navbar"
+export { default as OrderNow } from "./Navbar"
